@@ -18,10 +18,12 @@ MySQL and Knex.js for data base
 ## Screen Shots
 ![](./md/Screenshot-1.png)
 
-![](./md/Screenshot-2.png)
-
 ![](./md/Screenshot-3.png)
 
 ![](./md/Screenshot-4.png)
+
+## Mobile View
+![](./md/Screenshot-2.png)
+
 
 
